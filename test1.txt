@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6CC2-8307
+
+ Directory of C:\Users\naveena\Desktop\MyProject
+
+27/01/2021  12:23 PM    <DIR>          .
+27/01/2021  12:23 PM    <DIR>          ..
+27/01/2021  12:23 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  195,589,828,608 bytes free
